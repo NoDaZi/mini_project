@@ -49,5 +49,5 @@ def put_queen(board_len):
 
     return None
 
-
+# test
 print(put_queen(8))
